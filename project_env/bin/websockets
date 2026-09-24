@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/asankawijesooriya/AI Engineer Interview/FDE/project_env/bin/python3.11" "$0" "$@"
+'''exec' "/Users/asankawijesooriya/AI Engineer Interview/Enterprise-grade Agentic RAG System for HR Policy Operations/project_env/bin/python3.13" "$0" "$@"
 ' '''
 import sys
 from websockets.cli import main
